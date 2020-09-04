@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MadLevel1Example</string>
+    <string name="maintext">What kind of animal is this?</string>
 </resources>
